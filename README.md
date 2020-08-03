@@ -1,5 +1,5 @@
 # animals-adoption-react
-A basic website that u can search for a specific kind of animal (dog, cat, horse, etc..), the results come from an external API. This website is using the context api for state managment. also it's using server side rendering with express and nodejs.
+A basic website that u can search for a specific kind of animal (dog, cat, horse, etc..) to adopt it, the results come from an external API. This website is using the context and reducer APIs for state managment. also it's using server side rendering with express and nodejs.
 
 # to start the app:
 
